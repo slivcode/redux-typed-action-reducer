@@ -1,0 +1,39 @@
+{
+  "name": "redux-typed-action-reducer",
+  "version": "0.0.1",
+  "description": "strongly typed reducer and action creator",
+  "keywords": [
+    "functional",
+    "react",
+    "reducer",
+    "redux",
+    "typescript"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "sliv",
+    "email": "sliv.mbp@gmail.com"
+  },
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slivcode/redux-typed-action-reducer.git"
+  },
+  "scripts": {
+    "build": "nr",
+    "build:doc": "nr",
+    "build:prod": "nr",
+    "clean": "nr",
+    "test": "nr"
+  },
+  "bugs": {
+    "url": "https://github.com/slivcode/redux-typed-action-reducer/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/slivcode/redux-typed-action-reducer#readme"
+}
